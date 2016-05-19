@@ -1,11 +1,11 @@
-# Getting-and-Cleaning-Data-Assignment
-# Title: Getting and Cleaning Data Course Project
-# Data: Human Activity Recognition Using Smartphones Dataset 
-# Data Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-# Project Goal: Prepare a tidy dataset that can be used for later analyses
-# Date Completed: May 19, 2016 by PV
+Getting-and-Cleaning-Data-Assignment
+Title: Getting and Cleaning Data Course Project
+Data: Human Activity Recognition Using Smartphones Dataset 
+Data Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Project Goal: Prepare a tidy dataset that can be used for later analyses
+Date Completed: May 19, 2016 by PV
 #
-# R Script Steps:
+## R Script Steps:
 # 1. Merges the training and the test sets to create one data set
 #	2. Extracts only the measurement on the mean and SD for each measurement
 #	3. Uses descriptive activity names to name the activities in the data set
