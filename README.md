@@ -55,7 +55,7 @@
 #### Combine subject activity ids with measurement mean and SDs
 ###### all_data <- cbind(all_sub_act,mean_std)
 
-#### Step5 Create a Second Independent Data Set With the Average of Each Variable for each activity and subject
+#### Step 5 Create a Second Independent Data Set With the Average of Each Variable for each activity and subject
 ###### group <- group_by(all_data,subject_id, activity_name)
 ###### avg_subject_activity<-summarise_each(group, funs(mean))
 
